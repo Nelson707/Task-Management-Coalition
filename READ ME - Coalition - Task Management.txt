@@ -1,0 +1,8 @@
+Coalition - Task Management
+
+The project consists of creating projects and tasks. Projects are created first then on creating a task we pass in the project ID as the Foreign key. 
+The project includes the basic CRUD functionality for tasks and projects. Tasks can be reordered based on priority but you first need to change the priority in the edit tasks page to automatically reflect in the sorted tasks page.
+
+The tasks and projects are stored in an Sql database. To migrate the database, import the database from the tasks.sql file present in the folder.
+
+Thank you.
